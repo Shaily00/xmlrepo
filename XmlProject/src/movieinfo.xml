@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movies SYSTEM "movies.dtd" >
+<movies>
+  <movie>
+    <code>code</code>
+    <title>Gangs_of_Wassepur2</title>
+    <release-date> <day>25</day>
+    <month>5</month><year>2015</year></release-date>
+    <theater-name>PVR</theater-name>
+    <city> Indore </city>
+    <city> Pune </city>
+    <city> Mumbai </city>
+    <city> Wassepur </city>
+    
+  </movie>
+  <movie>
+  <code>105</code>
+  <title>Baahubali</title>
+  <theater-name>INOX</theater-name>
+  </movie>
+</movies>
